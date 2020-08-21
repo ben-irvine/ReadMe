@@ -4,6 +4,11 @@ List of my projects with links and brief explanations.
 ## Note
 Some of the projects I have worked on at Enspiral Dev Academy cannot be forked into my own account. For these I have provided links to their repos within our cohort's page.
 
+## Smurl / Rubin and Ben's URL Shortener
+A simple URL shortener. \
+Live Heroku Link: http://smurl.herokuapp.com/ \
+Repo: https://github.com/ben-irvine/url-shortener
+
 ## EDA Final Project - Cheeky Road Trip
 A New Zealand based, road trip planning web app. \
 Live Heroku Link: https://cheeky-roadtrip.herokuapp.com \
