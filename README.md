@@ -12,6 +12,7 @@ Repo: https://github.com/ben-irvine/url-shortener
 ## EDA Final Project - Cheeky Road Trip
 A New Zealand based, road trip planning web app. \
 Live Heroku Link: https://cheeky-roadtrip.herokuapp.com \
+*Note - Position stack API no longer works on live version so app is no longer functional
 Repo: https://github.com/ben-irvine/Cheeky-Road-Trip
 
 ## $how Me The Money
